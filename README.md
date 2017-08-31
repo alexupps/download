@@ -4,11 +4,9 @@ Rai.sh is a Bash Script developed by me to make easy install reaver 1.6.1 by t6x
 
 # How To Use.
 
-- 1º Download from this repository the Rai.sh
+- 1º Download from this repository the 'rai.sh'
 - 2º Put on desktop
-- 3º Open an terminal and give permission:
-        sudo chmoud u+x rai.sh
-- 4º To execute this Script depending your Linux S.O need root access
-        sudo ./rai.sh
+- 3º Open an terminal and give permission ->'sudo chmoud u+x rai.sh'
+- 4º To execute this Script depending your Linux S.O need root access -> 'sudo ./rai.sh'
 
-Thats All.
+2017 (C) alexupps @ http://alexupps.ml Twitter: https://twitter.com/alexupps
