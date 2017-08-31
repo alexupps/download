@@ -1,6 +1,6 @@
 # Rai.sh
 
-Rai.sh is a Bash Script to make easy install reaver 1.6.1 by t6x team fork, it's very easy to use or execute and it's automatic installing only need internet connection to download the last version about Reaver.
+Rai.sh is a Bash Script developed by me to make easy install reaver 1.6.1 by t6x team fork, it's very easy to use or execute and it's automatic installing only need internet connection to download the last version about Reaver.
 
 # How To Use.
 
